@@ -1,0 +1,69 @@
+Java: Tp 4.Herencia
+
+¿Cuánto se le debe pagar a cada empleado al finalizar la semana?
+
+- Sueldos
+
+Clase empleado: 
+ .Nombre
+ .Salario Fijo
+
+
+
+Clase empleadoHorasExtra extends:
+
+.Horas Trabajadas
+.Monto x hora
+
+
+Clase empleadoXComision extends:
+
+.VentasRealizadas
+.Porcentaje
+
+
+
+- Selección de futbol
+
+Conocer estado: viajando, concentración o en PO
+
+¿Esta disponible para evento solidario?
+Sólo si está en si PO y NO esta concentrando
+
+Clase integrante
+
+
+.nombre
+.apellido
+.nmro pasaporte
+.fechaNac
+
+Clase futbolista extends integrante
+
+.posición
+.cantidad goles
+
+Clase entrenador extends integrante
+
+.id
+
+Clase entrenador extends integrante
+
+.titulo
+.años de exp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
